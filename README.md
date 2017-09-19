@@ -28,6 +28,14 @@
    why hello
    why hello   
    why hello  
+
+
+1. i have a face
+  *it has a nose
+  *it has eyes
+2. foot
+  *yep
+
    
 
 
