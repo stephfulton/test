@@ -19,8 +19,8 @@
 2. no
  no
    * yes
-   *no
-   *yes
+   * no
+   * yes
 1. hello
   1. yes
   
@@ -31,10 +31,13 @@
 
 
 1. i have a face
-  *it has a nose
-  *it has eyes
+
+   * it has a nose
+   * it has eyes
+   
 2. foot
-  *yep
+
+   * yep
 
    
 
