@@ -40,6 +40,27 @@
    * yep
 
    
+[in-line link](https://github.com/stephfulton/test/edit/master/README.md)
+
+[with a title](https://github.com/stephfulton/test/edit/master/README.md "right here")
+
+http://www.google.com
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "an image")
+
+`in-line code`
+
+| table       | hey         | ye      |
+| ----------- |:-------:| -------:|
+| 1       | 3           | 4    |
+| 2           | 5           | 6       |
+   * doesn't need to be nice
+   
+> Blockquote.
+
+-----
+________
+*********
 
 
 
