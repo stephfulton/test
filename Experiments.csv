@@ -1,6 +1,6 @@
 Date,Animal #,DOB,Sex,Anesthesia,Time under Anesthesia,Electrodes,Tests,Results,Cause of Death
 9/26/2017,39-17,5/9/2017,F,1g/kg urethane,8 hr 12 min,"Vagal cuff electrode;1 planar electrode
-",Planar electrode baseline (20 min)|Cuff stim trial: 1 min/15 Hz/5 mA,,Lacked tech to progress further
+",Planar electrode baseline (20 min)|Cuff stim trial: 1 min/15 Hz/5 mA,,Euthanized
 10/5/2017,37-17,5/16/2017,F,1g/kg urethane,7 hr 38 min,Vagal cuff electrode;2 Planar electrodes,Planar electrodes baseline (30 min)|Cuff stim trials(7): 5 min/5 mA; 5 min/.5 mA; 5 min/.1 mA; 5 min/5 mA; 5 min/.5 mA; 5 min/.1 mA; 10 min/6 mA,,BP drop
 10/24/2017,40-17,,F,1g/kg urethane,3 hr 32 min,"Vagal cuff electrode;Low-tech stim electrode
 ",None,,BP drop
