@@ -1,0 +1,54 @@
+,8/6/2018,8/8/2018,8/10/2018,8/13/2018,8/14/2018,8/15/2018,8/16/2018,8/17/2018,8/20/2018,8/22/2018,8/24/2018,8/27/2018,8/29/2018,8/31/2018,9/5/2018,9/7/2018,9/10/2018,9/12/2018,9/14/2018,9/17/2018,9/19/2018,9/21/2018,9/24/2018,9/25/2018,9/26/2018,9/27/2018,10/3/2018,10/5/2018,10/8/2018,10/9/2018,10/10/2018,10/12/2018,10/15/2018,10/17/2018,10/19/2018,10/22/2018,10/24/2018,10/26/2018,10/29/2018,10/31/2018,11/2/2018,11/5/2018,11/7/2018,11/9/2018,11/12/2018,11/14/2018,11/16/2018,11/19/2018
+F37-18,adapt,adapt,adapt,adapt,adapt,adapt,adapt,adapt,adapt,adapt,Stim test 1,"baseline
+asleep","baseline
+unsuccessful",,Stim test 2,"baseline
+17min
+file 89",headcap mod,Feed 1,"Feed 2
+file 93","Feed 3
+file 96",Headcap mod,,,,,,,,,Headcap mod,,"Feed 4
+file 101","Feed+stim 1
+1mA
+file 103/104","Feed+stim 2
+2mA
+file 105",,,"Feed+stim 3
+6mA
+file 107","Emetine 1
+file 110",,,"Water
+file 111",,,"Headcap loss
+Terminal ",,,,
+F40-18,,,adapt,adapt,adapt,adapt,adapt,adapt,adapt,adapt,adapt,,adapt,Stim test 1,Stim test 2,"baseline
+15min
+",headcap mod,Feed 1,"Feed 2
+file 49",,Headcap mod,Feed 3,,"Feed+stim 1
+0.5mA
+file 52","Feed 4
+file 53","Feed+stim 2
+0.5mA
+file 57",,"Feed+stim 3
+1mA
+file 61",,,,,"Feed+stim 4
+2mA
+file 62","Feed+stim 5
+3mA
+file 63","Feed+stim 6
+6mA
+file 65","Emetine 1
+file 66/68",,,"Emetine 2
+file 69",,,"Water
+file 70",,,,"Stim only
+files 71 & 72
+Terminal",,
+F48-18,,,,,,,,,,,,,,,,,,,,Headcap mod,,,,,,,Stim test,,"Baseline
+15 min
+file 37",,"Feed 1
+file 38","Feed 2
+file 39",,,,,"Feed 3
+file 40",,,"Feed+stim 1
+1mA
+file 42",,,"Feed+stim 2
+6mA
+file 43",,"Emetine
+file 44",,"Water
+file 45","Stim only
+files 47 & 48
+Terminal"
