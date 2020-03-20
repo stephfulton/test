@@ -1,0 +1,57 @@
+Five to 7 days after surgery, the animals were anesthetized
+and transcardially perfused with ice-cold paraformaldehyde
+(4% in 0.1 M phosphate buffer). Both nodose ganglia and
+paired dorsal root ganglia (T4–L2) were dissected,
+embedded in 10% gelatin. The tissue was transferred into
+0.1 M phosphate buffer (PB) with 25% sucrose and stored
+at 4C for at least 18 h, prior to our cutting sections
+(35 lm) on a sliding microtome. Sections were washed
+three times in 0.1 M PB, placed in phosphate-buffered
+solution containing 5% normal goat serum and 0.25%
+Triton X-100 (PBT) and then incubated overnight at room
+temperature with antibodies against TRPV1 (raised in
+rabbits; 1:500; Calbiochem, San Diego, CA, USA; cat. #
+PC420), CGRP (raised in rabbits; 1:2000; Chemicon,
+Temecula, CA, USA; cat. # AB1971) and/or the neurofilament
+heavy chain (generated from mouse ascites fluid;
+1:400; N52, Sigma, St. Louis, MO, USA; cat. # N0142)
+and/or Alexa Fluor 647-conjugated isolectin Griffonia
+simplifolica IB4 (1:100; IB4, Molecular Probes, Eugene,
+OR, USA; cat. # I-32450). After being washed three times
+in 0.1 M PB, sections were incubated for 2 h at room
+temperature with secondary antibodies, donkey anti-rabbit
+Cy3 or anti-mouse Cy5 (1:150; Jackson Immunoresearch,
+West Grove, PA, USA). The sections were then washed
+three times in 0.1 M PBT and mounted in 0.1% gelatin.
+
+anti-TRPV1 rabbit * donkey anti-rabbit Cy3
+anti-CGRP rabbit * donkey anti-rabbit Cy3
+anti-neurofilament mouse * donkey anti-mouse Cy5
+IB4 Alexa Fluor 647-conjugated 
+
+
+we performed immunohistochemical investigations,
+using antibodies against the cationic ion channel
+TRPV1 (capsaicin receptor) and the neuropeptide calcitonin
+gene-related peptide (CGRP), which typically colocalizes
+with the high-affinity receptor for nerve growth
+factor (trkA) and is often used to identify potential peptidergic
+nociceptiors [16, 18, 19]. To determine the fraction
+of possible non-peptidergic nociceptors, we examined
+binding of the plant isolectin IB4 [20]. Finally, we investigated
+the presence of neurons with myelinated axons by
+immunohistochemical staining for the neurofilament heavy
+chain [21]. These neurochemical markers are frequently
+used to classify sensory neurons, with TRPV1, CGRP, and
+IB4 identifying subgroups thought to play a role in the
+sensation of pain.
+
+TRPV1 and CGRP - colocalizes with the high-affinity receptor for nerve growth factor - used to identify potential peptidergic nociceptors
+
+IB4 - non-pepdidergic nociceptors
+
+Neurofilament - myelinated neurons
+
+TRPV1, CGRP, IB4 - used to identify subgroups of sensory neurons involved in pain sensation
+
+
