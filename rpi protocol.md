@@ -6,6 +6,7 @@ list all screens
 `>screen -ls`
 
 `>ssh stephaniefulton@raspberrypi.local`
+
 password: number4911
 
 `>cd greenhouse`
@@ -17,6 +18,7 @@ can then close terminal
 
 reattach to screen by opening terminal 
 `>screen -r`
+
 should see program running
 
 detach
