@@ -1,25 +1,26 @@
 open terminal
 
->screen
+'>screen'
 list all screens
->screen -ls
 
->ssh stephaniefulton@raspberrypi.local
+'>screen -ls'
+
+'>ssh stephaniefulton@raspberrypi.local'
 password: number4911
 
->cd greenhouse
->source env/bin/activate
->cd e-Paper/RaspberryPi_JetsonNano/e-Paper/RaspberryPi_JetsonNano/python/examples
->sudo python3 screen_script.py
+'>cd greenhouse'
+'>source env/bin/activate'
+'>cd e-Paper/RaspberryPi_JetsonNano/e-Paper/RaspberryPi_JetsonNano/python/examples'
+'>sudo python3 screen_script.py'
 
 can then close terminal
 
 reattach to screen by opening terminal 
->screen -r
+'>screen -r'
 should see program running
 
 detach
->screen -d
+'>screen -d'
 
 
 rpi troubleshooting
