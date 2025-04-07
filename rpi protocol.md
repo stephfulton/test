@@ -1,6 +1,7 @@
 open terminal
 
 `>screen`
+
 list all screens
 
 `>screen -ls`
@@ -17,11 +18,13 @@ password: number4911
 can then close terminal
 
 reattach to screen by opening terminal 
+
 `>screen -r`
 
 should see program running
 
 detach
+
 `>screen -d`
 
 
