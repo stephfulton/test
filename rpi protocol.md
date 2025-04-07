@@ -29,6 +29,7 @@ detach
 
 
 rpi troubleshooting
--after power outage, rpi has trouble reconnecting
- -turn off and on
- -if green light doesn't come on, detach hat and reattach (just red light means no connection)
+
+  * after power outage, rpi has trouble reconnecting
+     * turn off and on
+     * if green light doesn't come on, detach hat and reattach (just red light means no connection)
